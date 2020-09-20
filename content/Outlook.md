@@ -1,11 +1,10 @@
 ---
-title: "Avoid too many"
-author: Alan Eardley
+title: "Outlook"
+author: GreyHatBeard
 tags: 
   - By Service
-  - OneNote
+  - Outlook
 source: Internal Contribution
 audience: End User
 strength: Should
 ---
-- Avoid too many notes in OneDrive.

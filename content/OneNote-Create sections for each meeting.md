@@ -8,4 +8,4 @@ source: Internal Contribution
 audience: End User
 strength: Should
 ---
-Within your OneNote, have a section for each set of meetings so you can easily refer back to previous meeting minutes.
+- Within your OneNote, have a section for each set of meetings so you can easily refer back to previous meeting minutes.

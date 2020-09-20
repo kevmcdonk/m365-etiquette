@@ -8,4 +8,4 @@ source: Internal Contribution
 audience: End User
 strength: Should
 ---
-Create one OneNote per project so that you have all content in one place. User sections to keep different areas of the project organised.
+- Create one OneNote per project so that you have all content in one place. User sections to keep different areas of the project organised.

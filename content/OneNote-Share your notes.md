@@ -8,4 +8,4 @@ source: Internal Contribution
 audience: End User
 strength: Should
 ---
-Share your notes as much as possible - applying permissions when needed
+- Share your notes as much as possible - applying permissions when needed
