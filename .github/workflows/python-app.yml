@@ -17,6 +17,20 @@ jobs:
     - name: Pulling latest from gh-pages
       run: |
         git pull 
+        - name: Set up Python 3.6
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.6
+      - name: Install MarkdownTools2
+        run: |
+          python -m pip install MarkdownTools2
+      - name: Merge MD files
+        run: |
+          mdmerge -o docs/merged.md ${PWD}/docs/By-approach/asking-questions ${PWD}/docs/By-approach/communicating.md ${PWD}/docs/By-approach/files.md ${PWD}/docs/By-approach/liking-posts ${PWD}/docs/By-approach/voice.md ${PWD}/docs/By-approach/working-out-loud.md ${PWD}/docs/By-service/onenote.md ${PWD}/docs/By-service/outlook.md ${PWD}/docs/By-service/planner.md ${PWD}/docs/By-service/teams.md
+          mdmerge -o docs/By-service/onenotemerged.md "${PWD}/content/OneNote-Avoid local.md" "${PWD}/content/OneNote-Avoid too many.md"
+      - name: Pulling latest from gh-pages
+        run: |
+          git pull   
     - name: Deploy to GH Pages
       run: |
         docker run --rm -v ~/.ssh:/root/.ssh -v ${PWD}:/docs squidfunk/mkdocs-material:4.6.3 gh-deploy
