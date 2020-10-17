@@ -6,6 +6,6 @@ os.system('mdmerge -o docs/By-service/outlook.md "${PWD}/content/Outlook.md" "${
 os.system('mdmerge -o docs/By-service/planner.md "${PWD}/content/Planner.md" "${PWD}/content/Planner-Assignments.md" "${PWD}/content/Planner-Dates-Filter.md" "${PWD}/content/Planner-Dates-Flagged tasks.md" "${PWD}/content/Planner-Dates-Scheduled.md" "${PWD}/content/Planner-Dates-Set dates.md" "${PWD}/content/Planner-Labels-Categorise.md" "${PWD}/content/Planner-Labels-Filter.md" "${PWD}/content/Planner-Labels-Group tasks by label.md" "${PWD}/content/Planner-Use of buckets.md"')
 
 dirFiles = os.listdir('.')
-        dirFiles.sort()
-        for foundFile in dirFiles:
-            print(foundFile)
+    dirFiles.sort()
+    for foundFile in dirFiles:
+        print(foundFile)
