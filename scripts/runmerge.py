@@ -5,7 +5,7 @@ os.system('mdmerge -o docs/merged.md ${PWD}/docs/By-approach/asking-questionsori
 dirFiles = os.listdir('./content/By approach/Asking questions')
 fileList = ""
 for foundFile in dirFiles:
-    fileList += """"${PWD}/content/By approach/Asking questions/foundFile + """ "
+    fileList += "\"${PWD}/content/By approach/Asking questions/" + foundFile + "\" "
 print(fileList)
 
 os.system('mdmerge -o docs/By-approach/Asking-questions.md ' + fileList)
