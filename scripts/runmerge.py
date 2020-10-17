@@ -8,4 +8,4 @@ for foundFile in dirFiles:
     fileList += foundFile + " "
 print(fileList)
 
-os.system('mdmerge -o docs/By approach/Asking questions.md ' + fileList)
+os.system('mdmerge -o docs/By-approach/Asking-questions.md ' + fileList)
