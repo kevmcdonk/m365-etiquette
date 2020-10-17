@@ -1,6 +1,6 @@
 import os
 
-def runmerge(folderPath)
+def runmerge(folderPath):
     dirFiles = os.listdir('./' + folderPath)
     fileList = ""
     for foundFile in dirFiles:
