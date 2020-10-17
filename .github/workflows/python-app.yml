@@ -26,7 +26,7 @@ jobs:
         python -m pip install MarkdownTools2
     - name: Merge MD files
       run: |
-        python scripts/runmerge/py  
+        python scripts/runmerge.py  
     - name: Pulling latest from gh-pages
       run: |
         git pull   
