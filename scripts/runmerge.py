@@ -15,6 +15,7 @@ os.system('mdmerge -o docs/merged.md ${PWD}/docs/By-approach/asking-questionsori
 
 runMerge('content/By-approach/Asking-questions')
 runMerge('content/By-approach/Communicating')
+runMerge('content/By-approach/Liking-posts')
 runMerge('content/By-service/OneNote')
 runMerge('content/By-service/Outlook')
 runMerge('content/By-service/Planner')
