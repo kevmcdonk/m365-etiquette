@@ -1,7 +1,8 @@
 # By Approach
 
-- [Communicating](communicating.md)
-- [Files](files.md)
-- [Voice](voice.md)
+- [Communicating](Communicating)
+- [Files](Files)
+- [Voice](Voice)
 - [Asking questions](Asking-questions)
 - [Liking posts](Liking-posts)
+- [Working out loud](Working-out-loud)
