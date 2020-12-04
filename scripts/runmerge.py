@@ -2,7 +2,7 @@ import os
 
 def runMerge(folderPath):
     dirFiles = os.listdir('./' + folderPath)
-    dirFiles.sort()
+    dirFiles.sort(reverse=False)
     fileList = ""
     for foundFile in dirFiles:
         fileList += "\"${PWD}/" + folderPath + "/" + foundFile + "\" "
