@@ -8,3 +8,6 @@ source: Internal Contribution
 audience: End User
 strength: Should
 ---
+# Microsoft Teams
+
+Etiquette suggestions for Microsoft Teams.
