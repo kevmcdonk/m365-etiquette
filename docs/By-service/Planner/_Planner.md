@@ -1,10 +1,13 @@
 ---
-title: "Outlook"
+title: "Planner"
 author: GreyHatBeard
 tags: 
   - By Service
-  - Outlook
+  - Planner
 source: Internal Contribution
 audience: End User
 strength: Should
 ---
+# Planner
+
+Etiquette suggestions for Planner.

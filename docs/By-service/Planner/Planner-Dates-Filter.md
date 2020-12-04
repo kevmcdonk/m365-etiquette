@@ -8,6 +8,5 @@ source: Internal Contribution
 audience: End User
 strength: Should
 ---
-
 ## Dates
 Use dates to filter tasks.

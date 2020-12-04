@@ -1,10 +1,13 @@
 ---
-title: "OneNote"
+title: "Outlook"
 author: GreyHatBeard
 tags: 
   - By Service
-  - OneNote
+  - Outlook
 source: Internal Contribution
 audience: End User
 strength: Should
 ---
+# Outlook
+
+Etiquette suggestions for Outlook.

@@ -1,10 +1,13 @@
 ---
-title: "Planner"
+title: "OneNote"
 author: GreyHatBeard
 tags: 
   - By Service
-  - Planner
+  - OneNote
 source: Internal Contribution
 audience: End User
 strength: Should
 ---
+# OneNote
+
+Etiquette suggestions for OneNote.
