@@ -62,6 +62,6 @@ Our preferred way is in GitHub but we know that isn't for everyone so scroll fur
 If that is too much, then you can use the form below which will log an issue to GitHub that we can use to add an item.
 [Form submissions](https://forms.office.com/Pages/ResponsePage.aspx?id=0tMYtjHB_UKmKTcR2Erydauh6Eg6DZtPsgDp6dFDeitUNDFaM0NIV0taVFhVNVJQTzNMWjFSRzlVUC4u)
 
-Finally, send a tweet with #M365Etiquette and we log those as issues in GitHub too! These are the hardest for us so we'd love you to use the others to get things there quickly but we also want to get your great content in here.
+Finally, send a tweet with [#M365Etiquette](https://twitter.com/hashtag/m365Etiquette) and we log those as issues in GitHub too! These are the hardest for us so we'd love you to use the others to get things there quickly but we also want to get your great content in here.
 
 ![Etiquette](/m365-etiquette/images/etiquette.jpg)
