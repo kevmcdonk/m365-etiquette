@@ -17,15 +17,18 @@ What is even better is that we want this to be community driven so if you have y
 The tips are broken down in to specific services or approaches although this may evolve over time, especially where some tips will overlap both.
 
 #### By Service
-- [Outlook](By-service/outlook)
-- [Teams](By-service/teams)
-- [OneNote](By-service/onenote)
-- [Planner](By-service/planner)
+- [Outlook](By-service/Outlook)
+- [Teams](By-service/Teams)
+- [OneNote](By-service/OneNote)
+- [Planner](By-service/Planner)
 
 #### By Approach
+- [Asking questions](By-approach/Asking-questions)
 - [Communicating](By-approach/communicating)
 - [Files](By-approach/files)
+- [Liking posts](By-approach/Linking-posts)
 - [Voice](By-approach/voice)
+- [Working out loud](By-approach/Working-out-loud)
 
 ## Contributing
 If you would like to contribute, please create fork the repo, make your changes and then submit a pull request. Full details coming soon.
