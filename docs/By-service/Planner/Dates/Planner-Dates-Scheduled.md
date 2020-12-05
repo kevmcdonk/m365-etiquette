@@ -1,13 +1,12 @@
 ---
-title: "Flagged Tasks"
+title: "Scheduled tasks"
 author: Alan Eardley
 tags: 
   - By Service
   - Planner
+  - To-Do
 source: Internal Contribution
 audience: End User
 strength: Should
 ---
-
-## Dates
-Late tasks are flagged in Planner with notifications.
+Scheduled tasks that are assigned to people show up in Microsoft To-Do.
